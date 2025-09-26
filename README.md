@@ -1,5 +1,9 @@
 ## EX 5 : TWO DIMENSIONALTRANSFORMATION 
 
+NAME : IRFAN KHAN.N
+
+REG NO: 212224230097
+
 **AIM**
 
 To write a c program to implement 2D transformation of image.
